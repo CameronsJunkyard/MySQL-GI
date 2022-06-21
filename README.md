@@ -1,12 +1,16 @@
 # MySQL-GI
 RoadToHire assignment
+Very Easy
 ![Very Easy](veryeasy.png)
+
+Easy
 ![Easy](easy.png)
 
+Medium : DNF
 
-CREATE TABLE books(
-id INT AUTO_INCREMENT PRIMARY Key, 
-title VARCHAR(30),
-publish_date year, 
-author VARCHAR(30)
-);
+Hard : DNF
+
+Very Hard : DNF
+
+DNF: Did Not Finish.
+
