@@ -1,4 +1,4 @@
-# MySQL-GI
+# MySQL-GI Archived
 RoadToHire assignment
 Very Easy
 ![Very Easy](veryeasy.png)
